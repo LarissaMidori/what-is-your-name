@@ -1,0 +1,16 @@
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.csprojAssemblyReference.cache
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.AssemblyInfoInputs.cache
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.AssemblyInfo.cs
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.exe
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.deps.json
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.runtimeconfig.json
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.runtimeconfig.dev.json
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.dll
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\ref\what-is-your-name.dll
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\bin\HPD\Debug\net5.0\what-is-your-name.pdb
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.dll
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\ref\what-is-your-name.dll
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.pdb
+C:\Users\Larissa\desktop\projetosGitHub\what-is-your-name\obj\HPD\Debug\net5.0\what-is-your-name.genruntimeconfig.cache
